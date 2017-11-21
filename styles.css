@@ -1,0 +1,38 @@
+.card{
+  border-style: solid;
+  border-color: #C0C0C0;
+  border-width: 1px;
+  padding: 10px 10px;
+  box-shadow: 5px 5px 5px #D3D3D3;
+  width: 320px;
+}
+.content{
+  padding: 5px 5px;
+  box-sizing: border-box;
+  width: 310px;
+}
+.info{
+  border-style: solid;
+  border-color: #C0C0C0;
+  border-width: 1px;
+  padding: 10px 10px;
+  box-sizing: border-box;
+  width: 300px
+  }
+
+img{
+  width:300px;
+  padding: 20px 0px;
+}
+span{
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+h2{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
